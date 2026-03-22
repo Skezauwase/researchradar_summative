@@ -1709,3 +1709,4 @@ header p {
     .trending-stats-row { grid-template-columns: repeat(2, 1fr); }
 }
 
+/* glassmorphism: backdrop blur and border effects applied to nav and cards */
