@@ -520,3 +520,4 @@ function escHtml(str) {
         .replace(/'/g, '&#039;');
 }
 // renderPapers: maps API results to paper card HTML strings
+// decodeAbstract: reconstructs plain text from OpenAlex inverted index format
