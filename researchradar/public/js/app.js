@@ -519,3 +519,4 @@ function escHtml(str) {
         .replace(/"/g, '&quot;')
         .replace(/'/g, '&#039;');
 }
+// renderPapers: maps API results to paper card HTML strings
