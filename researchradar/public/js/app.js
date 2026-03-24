@@ -521,3 +521,4 @@ function escHtml(str) {
 }
 // renderPapers: maps API results to paper card HTML strings
 // decodeAbstract: reconstructs plain text from OpenAlex inverted index format
+// loadCountries: fetches all countries from REST Countries API (free, no key)
