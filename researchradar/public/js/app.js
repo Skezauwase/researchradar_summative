@@ -523,3 +523,4 @@ function escHtml(str) {
 // decodeAbstract: reconstructs plain text from OpenAlex inverted index format
 // loadCountries: fetches all countries from REST Countries API (free, no key)
 // showLoading: resets all states before showing spinner
+// buildPageRange: generates page numbers capped at OpenAlex 200-page limit
