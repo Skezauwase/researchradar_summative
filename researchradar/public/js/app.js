@@ -524,3 +524,4 @@ function escHtml(str) {
 // loadCountries: fetches all countries from REST Countries API (free, no key)
 // showLoading: resets all states before showing spinner
 // buildPageRange: generates page numbers capped at OpenAlex 200-page limit
+// classifyError: maps fetch errors to specific user-friendly messages
